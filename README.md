@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @lhenriquesf. My name is Luiz Henrique
+### - 👋 Hi, I’m @lhenriquesf. My name is Luiz Henrique
+
+### About 
 - 👀 I’m interested in Back-End development 
 - 🌱 I’m currently learning React JS, Node JS and JavaScript
 
