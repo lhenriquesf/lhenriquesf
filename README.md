@@ -1,8 +1,8 @@
 ### - 👋 Hi, I’m @lhenriquesf. My name is Luiz Henrique
 
 ### About 
-- 👀 I’m interested in Front-End development 
-- 🌱 I’m currently learning React JS, Node JS and JavaScript
+- 👀 I’m interested in Data Engineer 
+- 🌱 I’m currently learning SQL and Python
 
 <!---
 lhenriquesf/lhenriquesf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
