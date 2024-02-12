@@ -1,8 +1,8 @@
 ### - 👋 Hi, I’m @lhenriquesf. My name is Luiz Henrique
 
 ### About 
-- 👀 I’m interested in Mobile Development 
-- 🌱 I’m currently learning Dart and Flutter
+- 👀 I’m interested in Web Development 
+- 🌱 I’m currently learning Python and Django
 
 <!---
 lhenriquesf/lhenriquesf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
