@@ -1,10 +1,7 @@
-### - 👋 Hi, I’m @lhenriquesf. My name is Luiz Henrique
+### - 👋 Olá eu sou o Luiz Henrique
 
 ### About 
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Python and Django
-
-<!---
-lhenriquesf/lhenriquesf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <img height='180em' src='https://github-readme-stats.vercel.app/api?username=lhenriquesf&show_icons=true&theme=dracula'/> 
+  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=lhenriquesf&layout=compact&theme=dracula'/>
+</div>
